@@ -1,0 +1,39 @@
+
+#header {
+
+    color:white;
+
+    padding:5px;
+}
+
+#nav {
+
+    background-color:#eeeeee;
+    height:60px;
+
+
+    padding:5px; 
+}
+
+.product{
+
+	width:330px;
+
+    padding:10px;
+    text-align:center; 
+
+	background-color:#66FF99;
+	color:#333399;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    text-align:center;
+   	padding:5px;	 	 
+}
+
+#In_1,#In_2,#In_3,#In_4
+{
+display:none;
+}
