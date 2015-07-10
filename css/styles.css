@@ -8,7 +8,7 @@
 
 #nav {
 
-    background-color:#eeeeee;
+    background-color:#708090;
     height:60px;
 
 
@@ -22,7 +22,7 @@
     padding:10px;
     text-align:center; 
 
-	background-color:#66FF99;
+	background-color:#FFE4C4;
 	color:#333399;
 }
 
@@ -36,4 +36,10 @@
 #In_1,#In_2,#In_3,#In_4
 {
 display:none;
+}
+
+.container
+{
+    background-color:#F5F5F5;
+
 }
